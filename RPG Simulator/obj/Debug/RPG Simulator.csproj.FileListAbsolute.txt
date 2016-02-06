@@ -1,0 +1,9 @@
+c:\users\alita\documents\visual studio 2013\Projects\RPG Simulator\RPG Simulator\bin\Debug\RPG Simulator.exe.config
+c:\users\alita\documents\visual studio 2013\Projects\RPG Simulator\RPG Simulator\bin\Debug\RPG Simulator.exe
+c:\users\alita\documents\visual studio 2013\Projects\RPG Simulator\RPG Simulator\bin\Debug\RPG Simulator.pdb
+c:\users\alita\documents\visual studio 2013\Projects\RPG Simulator\RPG Simulator\obj\Debug\RPG Simulator.csprojResolveAssemblyReference.cache
+c:\users\alita\documents\visual studio 2013\Projects\RPG Simulator\RPG Simulator\obj\Debug\RPG_Simulator.Properties.Resources.resources
+c:\users\alita\documents\visual studio 2013\Projects\RPG Simulator\RPG Simulator\obj\Debug\RPG Simulator.csproj.GenerateResource.Cache
+c:\users\alita\documents\visual studio 2013\Projects\RPG Simulator\RPG Simulator\obj\Debug\RPG Simulator.exe
+c:\users\alita\documents\visual studio 2013\Projects\RPG Simulator\RPG Simulator\obj\Debug\RPG Simulator.pdb
+c:\users\alita\documents\visual studio 2013\Projects\RPG Simulator\RPG Simulator\obj\Debug\RPG_Simulator.MainPageForm.resources
